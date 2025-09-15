@@ -13,9 +13,10 @@ redirect_from:
   - /about.html
 ---
 
-# Connor Neff - Economics PhD Candidate
 
-Hi there! I'm **Connor Neff**, an Economics PhD Candidate at the University of Tennessee - Knoxville. My [economics research](https://neffconnor.github.io/research/) utilizes tools from industrial organization, natural resource modeling, and applied microeconomics to study questions related to energy and water economics.
+Hi there! I'm **Connor Neff**, an Economics PhD Candidate at the University of Tennessee - Knoxville. My [research](https://neffconnor.github.io/research/) utilizes tools from industrial organization, natural resource modeling, and applied microeconomics to study questions related to energy and water economics. Outside of economics research, I dedicate much of my time to [climbing](https://neffconnor.github.io/climbing/) and [surfing](https://neffconnor.github.io/surfing/).
+
+**I am on the 2025-26 Job Market**. My CV can be found [here](https://neffconnor.github.io/cv/).
 
 ## Research Specializations
 - **Industrial Organization**
@@ -24,10 +25,5 @@ Hi there! I'm **Connor Neff**, an Economics PhD Candidate at the University of T
 - **Water Economics**
 - **Applied Microeconomics**
 
-**I am on the 2025-26 Job Market**. My CV can be found [here](https://neffconnor.github.io/cv/).
-
-## About Connor Neff
-Connor Neff is an economics researcher specializing in environmental and resource economics. Outside of economics research, I dedicate much of my time to [climbing](https://neffconnor.github.io/climbing/) and [surfing](https://neffconnor.github.io/surfing/).
-
 ## Contact
-Feel free to contact Connor Neff at connor.neff [at] utk.edu
+Feel free to contact me at connor.neff [at] utk.edu
