@@ -10,7 +10,9 @@ author_profile: true
 ## Working Papers
 
 ### **Lone Star Grid: The Impact of Texas Electricity Interconnection**
-*with J. Scott Holladay*
+<span style="font-size: 0.9em; font-style: italic; font-weight: normal;">with J. Scott Holladay</span>
+
+[**Current Draft**](/files/Texas_Interconnection__Sept_2025_Manuscript_.pdf){:target="_blank"}
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <img src="/images/avg_diff_gen.png" alt="Average Generation Difference" style="width: 49%; height: auto;">
@@ -19,7 +21,7 @@ author_profile: true
 
 <details>
   <summary><strong>Abstract</strong></summary>
-  <p><em>Electricity interconnection reduces aggregate production costs, improves reliability, and reduces transmission constraints, yet the Texas electricity grid is isolated from the rest of the United States. We estimate the potential benefits of grid integration by building least average cost and least marginal cost dispatch models to characterize the supply of electricity. We find that Texas's largest population zones connected with neighboring states to the East results in the largest reductions in generation costs. We provide evidence that the two models do not differ substantially in total generation cost change from interconnection. We also show that accounting for fixed costs in the dispatch model allocates generation to units with lower average fixed costs than under least marginal cost dispatch. This change in allocation along the margin results in large differences in emissions impacts. We find that some interconnection scenarios provide large decreases in emissions while others result in higher emissions.</em></p>
+  <p><em>This paper evaluates the economic and environmental costs of Texas maintaining an isolated electricity grid. We build a least average cost dispatch model to characterize the supply of electricity and simulate counterfactual integration scenarios. We find that Texas’s largest population zones connected with neighboring states to the East results in reductions of generation costs of $100M annually. We also show that accounting for fixed costs in the dispatch model allocates generation to units with lower average fixed costs than under least marginal cost dispatch. This change in allocation along the margin results in large differences in emissions impacts. We find that some interconnection scenarios decrease the social cost of emissions by up to $360M annually, while others result in higher emissions. In case study for one proposed interconnection, we show that generation and revenues shift to the Texas zone. We also show that reductions in costs of maintaining reliability are about as much as generation cost reductions.</em></p>
 </details>
 
 ---
@@ -29,7 +31,7 @@ author_profile: true
 ### **Electric Shocks: The Short-run and Long-run Impacts of Power Outages on the Housing Market**
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/expected_annual_putage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto;">
+  <img src="/images/expected_annual_outage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto;">
   <img src="/images/lp_IV_list_price.png" alt="Listing Price Impact" style="width: 49%; height: auto;">
 </div>
 
@@ -40,8 +42,8 @@ author_profile: true
 
 ### **Rate Structures and Resource Rents in Municipal Water Pricing**
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/markups.png" alt="Water Pricing Markups" style="width: 49%; height: auto;">
+<div style="display: flex; gap: 10px; margin: 20px 0; align-items: flex-start;">
+  <img src="/images/markups.png" alt="Water Pricing Markups" style="width: 49%; height: auto; max-height: 400px; object-fit: contain;">
   <img src="/images/groundwater_change_raw_map.png" alt="Groundwater Changes" style="width: 49%; height: auto;">
 </div>
 
@@ -50,6 +52,8 @@ author_profile: true
   <p><em>Several studies have analyzed how different rate structures and water utility characteristics influence equity, efficiency, and cost-recovery. The degree to which utilities incorporate the natural capital value of water into rates and costs is relatively unexplored. Using a simple model of dynamic water allocation suggests that increasing block rates reflect the scarcity value of water better than uniform volumetric rates. I construct a novel data set of nearly 200 utilities in Arizona to parameterize the model and analyze how rate structure and utility characteristics impact the extent to which resource rents are reflected in rates.</em></p>
 </details>
 
-### **Renewable Energy Manufacturing Investment and Uncertain Demand-side Subsidies** (*with Nicolas Pinsonneault*)
+### **Renewable Energy Manufacturing Investment and Uncertain Demand-side Subsidies**
+<span style="font-size: 0.9em; font-style: italic; font-weight: normal;">with Nicolas Pinsonneault</span>
 
-### **Costs of Low Quality Power** (*with Finbar Curtin*)
+### **Costs of Low Quality Power**
+<span style="font-size: 0.9em; font-style: italic; font-weight: normal;">with Finbar Curtin</span>

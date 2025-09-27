@@ -18,12 +18,10 @@ Hi there! I'm **Connor Neff**, an Economics PhD Candidate at the University of T
 
 **I am on the 2025-26 Job Market**. My CV can be found [here](https://neffconnor.github.io/cv/).
 
-## Research Specializations
-- **Industrial Organization**
-- **Natural Resource Economics**
+Feel free to contact me at connor.neff [at] utk.edu
+
+## Fields of Specialization
 - **Energy Economics**
 - **Water Economics**
+- **Industrial Organization**
 - **Applied Microeconomics**
-
-## Contact
-Feel free to contact me at connor.neff [at] utk.edu
