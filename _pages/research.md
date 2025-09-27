@@ -23,9 +23,9 @@ header:
 ### **Electric Shocks: The Short-run and Long-run Impacts of Power Outages on the Housing Market**
 &nbsp;&nbsp;&nbsp;&nbsp;*Power disruptions are costly to households. How do consumers value power reliability disruptions? I exploit the variation in daily lightning strikes to provide new evidence on the capitalization of power reliability into home values. Ground lightning strikes lead to voltage fluctuations, damage to the electricity distribution network and power outages. Increases in lightning density (strikes per square mile) is associated with increased outages and decreases in county-level housing prices. I find that the average marginal willingness to pay for a 1 unit reduction in annual outages is about .37% of home price. I also evaluate the short-run impacts of power reliability shocks on short-run housing inventory outcomes. I find that a 10% increase in probability of experiencing at least one monthly outage is associated with as much as a .2% decrease in median listing price.*
 
-[![](images/ld_long_diff_map.png)](images/ld_long_diff_map.png)  
+[![](/images/ld_long_diff_map.png)](/images/ld_long_diff_map.png)  
 
 ### **Rate Structures and Resource Rents in Municipal Water Pricing**
 &nbsp;&nbsp;&nbsp;&nbsp;*Several studies have analyzed how different rate structures and water utility characteristics influence equity, efficiency, and cost-recovery. The degree to which utilities incorporate the natural capital value of water into rates and costs is relatively unexplored. Using a simple model of dynamic water allocation suggests that increasing block rates reflect the scarcity value of water better than uniform volumetric rates. I construct a novel data set of nearly 200 utilities in Arizona to parameterize the model and analyze how rate structure and utility characteristics impact the extent to which resource rents are reflected in rates.*
 
-[![](images/groundwater_change_raw_map.png)](images/groundwater_change_raw_map.png)  
+[![](/images/groundwater_change_raw_map.png)](/images/groundwater_change_raw_map.png)  
