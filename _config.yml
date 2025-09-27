@@ -13,7 +13,7 @@ title                    : "Connor Neff"
 title_separator          : "-"
 name                     : &name "Connor Neff"
 description              : &description "Economics PhD Candidate at University of Tennessee specializing in industrial organization, natural resource modeling, and applied microeconomics with focus on energy and water economics"
-url                      : "https://neffconnor.github.io" # the base hostname
+url                      : "https://connorneff.com" # the base hostname
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neffconnor/neffconnor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
