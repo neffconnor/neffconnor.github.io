@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> [**Draft**](/files/Texas_Interconnection__Sept_2025_Manuscript_.pdf){:target="_blank"}
+### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> [<span style="font-weight: 300;">Draft</span>](/files/Texas_Interconnection__Sept_2025_Manuscript_.pdf){:target="_blank"}
 
 <details>
   <summary style="font-size: 0.9em;"><strong>Abstract</strong></summary>
