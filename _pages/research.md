@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> [<span style="font-weight: 300;">Draft</span>](/files/Texas_Interconnection__Sept_2025_Manuscript_.pdf){:target="_blank"}
+### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> [<span style="font-weight: 300;">Draft</span>](/files/Texas_Interconnection_Nov2025.pdf){:target="_blank"}
 
 <details>
   <summary style="font-size: 0.9em;"><strong>Abstract</strong></summary>
@@ -15,8 +15,8 @@ author_profile: true
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/avg_diff_gen.png" alt="Average Generation Difference" style="width: 49%; height: auto;">
-  <img src="/images/change_carbon_fossil_color.png" alt="Carbon and Fossil Fuel Changes" style="width: 49%; height: auto;">
+  <img src="/images/avg_diff_gen.png" alt="Average Generation Difference" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/change_carbon_fossil_color.png" alt="Carbon and Fossil Fuel Changes" style="width: 49%; height: auto; background-color: white;">
 </div>
 
 ---
@@ -31,8 +31,8 @@ author_profile: true
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/expected_annual_outage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto;">
-  <img src="/images/lp_IV_list_price.png" alt="Listing Price Impact" style="width: 49%; height: auto;">
+  <img src="/images/expected_annual_outage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/lp_IV_list_price.png" alt="Listing Price Impact" style="width: 49%; height: auto; background-color: white;">
 </div>
 
 ### **Rate Structures and Resource Rents in Municipal Water Pricing**
@@ -43,10 +43,10 @@ author_profile: true
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0; align-items: center;">
-  <img src="/images/markups.png" alt="Water Pricing Markups" style="width: 49%; height: auto; max-height: 400px; object-fit: contain;">
-  <img src="/images/groundwater_change_raw_map.png" alt="Groundwater Changes" style="width: 42%; height: auto;">
+  <img src="/images/markups.png" alt="Water Pricing Markups" style="width: 49%; height: auto; max-height: 400px; object-fit: contain; background-color: white;">
+  <img src="/images/groundwater_change_raw_map.png" alt="Groundwater Changes" style="width: 42%; height: auto; background-color: white;">
 </div>
 
-### **Renewable Energy Manufacturing Investment and Uncertain Demand-side Subsidies** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with Nicolas Pinsonneault)</span>
+### **Policy Uncertainty and Coordination Failure in Renewable Investment Networks** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with Nicolas Pinsonneault)</span>
 
 ### **Costs of Low Quality Power** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with Finbar Curtin)</span>

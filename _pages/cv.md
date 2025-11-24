@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here](/files/ConnorNeffCV.pdf).
+Download CV [here](/files/ConnorNeffCV_Nov2025.pdf).
 
 <br><br>
 
-<iframe src="/files/ConnorNeffCV.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/ConnorNeffCV_Nov2025.pdf" width="100%" height="800px" style="border: none;">
   This browser does not support PDFs. Please download the PDF to view it:
-  <a href="/files/ConnorNeffCV.pdf">Download PDF</a>
+  <a href="/files/ConnorNeffCV_Nov2025.pdf">Download PDF</a>
 </iframe>
