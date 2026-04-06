@@ -12,9 +12,12 @@ header:
 
 ## Instructor
 
+### ECON 362, Environmental and Natural Resource Policy  
+&nbsp;&nbsp;&nbsp;&nbsp;*Spring 2026*
+
 ### ECON 201, Introduction to Economics  
 &nbsp;&nbsp;&nbsp;&nbsp;**Online**  
-&nbsp;&nbsp;&nbsp;&nbsp;*Fall 2024*
+&nbsp;&nbsp;&nbsp;&nbsp;*Fall 2024, Fall 2025*
 
 ---
 
