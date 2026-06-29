@@ -33,3 +33,39 @@
   border-radius: 2px;
   line-height: 1.65;
 }
+
+/* Abstract toggle button */
+details {
+  margin-top: 6px;
+  display: block;
+}
+
+summary.abstract-toggle {
+  display: inline-block;
+  padding: 1px 7px;
+  font-size: 0.72em;
+  font-family: $sans-serif;
+  font-weight: 400;
+  color: #043361;
+  background-color: transparent;
+  border: 1px solid #043361;
+  border-radius: 3px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  line-height: 1.8;
+
+  &::-webkit-details-marker { display: none; }
+
+  &::before { content: "[+ "; }
+  &::after  { content: "]"; }
+
+  &:hover {
+    color: #fff !important;
+    background-color: #043361;
+  }
+}
+
+details[open] summary.abstract-toggle::before {
+  content: "[− ";
+}
