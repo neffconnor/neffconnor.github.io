@@ -68,6 +68,12 @@ audio:not([controls]) {
 
 a {
   color: var(--global-link-color);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+    text-decoration: none;
+  }
 }
 
 /* Apply focus state */

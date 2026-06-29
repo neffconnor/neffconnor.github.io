@@ -47,6 +47,6 @@ author_profile: true
   <img src="/images/groundwater_change_raw_map.png" alt="Groundwater Changes" style="width: 42%; height: auto; background-color: white;">
 </div>
 
-### **Not All Delays Are Equal: Queue Management and the Spatial Efficiency of Renewable Energy Deployment** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with Nicolas Pinsonneault)</span>
+### **Not All Delays Are Equal: Queue Management and the Spatial Efficiency of Renewable Energy Deployment** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://sites.google.com/view/npinsonneault/homepage" target="_blank">Nicolas Pinsonneault</a>)</span>
 
-### **Costs of Low Quality Power** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with Finbar Curtin)</span>
+### **Costs of Low Quality Power** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://sites.google.com/view/finbarcurtin/home" target="_blank">Finbar Curtin</a>)</span>
