@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> <a class="paper-btn" href="/files/Texas_Interconnection_ConnorNeff_JMP_April26.pdf" target="_blank">Draft</a>
+### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://haslam.utk.edu/people/profile/scott-holladay/" target="_blank">J. Scott Holladay</a>)</span> <a class="paper-btn" href="/files/Texas_Interconnection_ConnorNeff_JMP_April26.pdf" target="_blank">Draft</a>
 
 <details>
   <summary class="abstract-toggle">Abstract</summary>
