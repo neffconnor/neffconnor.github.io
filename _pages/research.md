@@ -7,6 +7,20 @@ author_profile: true
 
 ## Working Papers
 
+### **Pricing Urban Water: Rate Structures and Scarcity Rents Under Supply Uncertainty** <a class="paper-btn" href="/files/Neff_PricingUrbanWater_July26.pdf" target="_blank">Draft</a>
+
+<details>
+  <summary class="abstract-toggle">Abstract</summary>
+  <div class="abstract-box">Municipal water utilities are mandated to recover costs, balance equity concerns, and send conservation signals. Yet the degree to which observed prices reflect the scarcity value of water remains largely unexplored. This paper develops a stochastic dynamic program in which the optimal two-sector price decomposes into a Ramsey markup, a scarcity rent on the water stock, and sector-specific marginal cost. Residential and non-residential demand elasticities of −0.59 and −0.82, respectively, are estimated from a novel panel of 194 Arizona water utilities (2014–2019). Simulated model-implied optimal prices show that increasing block rate (IBR) utilities price closer to the dynamic optimum than uniform-rate utilities. The welfare loss from suboptimal pricing is $11 to $26 per customer greater under uniform rates than IBR, and uniform structures undervalue the water stock by 20% relative to IBR. IBRs more fully capture the scarcity rent of water than uniform pricing, and this advantage widens as supply conditions tighten.</div>
+</details>
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <img src="/images/fig1_welfare_dist.png" alt="Welfare Distribution" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/tier_gap_by_rate_structure.png" alt="Tier Gap by Rate Structure" style="width: 49%; height: auto; background-color: white;">
+</div>
+
+---
+
 ### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with J. Scott Holladay)</span> <a class="paper-btn" href="/files/Texas_Interconnection_ConnorNeff_JMP_April26.pdf" target="_blank">Draft</a>
 
 <details>
@@ -33,18 +47,6 @@ author_profile: true
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <img src="/images/expected_annual_outage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto; background-color: white;">
   <img src="/images/lp_IV_list_price.png" alt="Listing Price Impact" style="width: 49%; height: auto; background-color: white;">
-</div>
-
-### **Rate Structures and Resource Rents in Municipal Water Pricing**
-
-<details>
-  <summary class="abstract-toggle">Abstract</summary>
-  <div class="abstract-box">Several studies have analyzed how different rate structures and water utility characteristics influence equity, efficiency, and cost-recovery. The degree to which utilities incorporate the natural capital value of water into rates and costs is relatively unexplored. Using a simple model of dynamic water allocation suggests that increasing block rates reflect the scarcity value of water better than uniform volumetric rates. I construct a novel data set of nearly 200 utilities in Arizona to parameterize the model and analyze how rate structure and utility characteristics impact the extent to which resource rents are reflected in rates.</div>
-</details>
-
-<div style="display: flex; gap: 10px; margin: 20px 0; align-items: center;">
-  <img src="/images/markups.png" alt="Water Pricing Markups" style="width: 49%; height: auto; max-height: 400px; object-fit: contain; background-color: white;">
-  <img src="/images/groundwater_change_raw_map.png" alt="Groundwater Changes" style="width: 42%; height: auto; background-color: white;">
 </div>
 
 ### **Not All Delays Are Equal: Queue Management and the Spatial Efficiency of Renewable Energy Deployment** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://sites.google.com/view/npinsonneault/homepage" target="_blank">Nicolas Pinsonneault</a>)</span>
