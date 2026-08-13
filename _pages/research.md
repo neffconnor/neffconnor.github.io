@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### **Pricing Urban Water: Rate Structures and Scarcity Rents Under Supply Uncertainty** <a class="paper-btn" href="/files/Neff_PricingUrbanWater_July26.pdf" target="_blank">Draft</a>
+### **Pricing Urban Water: Rate Structures and Scarcity Rents Under Supply Uncertainty** <a class="paper-btn" href="/files/Neff_PricingUrbanWater_Aug26.pdf" target="_blank">Draft</a>
 
 <details>
   <summary class="abstract-toggle">Abstract</summary>
