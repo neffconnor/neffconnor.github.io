@@ -21,6 +21,20 @@ author_profile: true
 
 ---
 
+### **Valuing Power Outages: Evidence from U.S. Housing Transactions** <a class="paper-btn" href="/files/Valuing_Power_Outages_Aug26.pdf" target="_blank">Draft</a>
+
+<details>
+  <summary class="abstract-toggle">Abstract</summary>
+  <div class="abstract-box">Utility regulators lack credible behavioral estimates of household willingness to pay for power reliability to benchmark grid investment decisions. I compare individual home sale prices on either side of electric utility service boundaries within the same county, combining transaction data from 2015 to 2022 with automated outage records compiled from utility monitoring systems. Each additional hour of chronic outage exposure reduces home sale prices by 1.3 to 2.3 percent. Applying the Bishop and Murphy (2019) dynamic hedonic correction implies a marginal willingness to pay of $539 to $939 per household per year for an avoided hour of chronic outage. Holding the set of utilities fixed and changing only the outage measure, the self-reported data that utilities file with regulators cannot reproduce this result, and the two measures barely agree on the cross-boundary reliability gap. The choice of outage data, not the research design alone, determines what one finds. The estimate is a marginal willingness to pay for homes on the higher-outage side of the boundaries I study, in counties served by more than one utility. Within that scope the results provide a housing-market benchmark for reliability that regulatory reviews and conventional estimates do not currently capture.</div>
+</details>
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <img src="/images/fig_balance_continuity_eaglei_util.png" alt="Utility Service Boundary Design" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/map_minor_saidi_mean.png" alt="Minor Event Day Outage Map" style="width: 49%; height: auto; background-color: white;">
+</div>
+
+---
+
 ### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://haslam.utk.edu/people/profile/scott-holladay/" target="_blank">J. Scott Holladay</a>)</span> <a class="paper-btn" href="/files/Texas_Interconnection_ConnorNeff_JMP_April26.pdf" target="_blank">Draft</a>
 
 <details>
@@ -29,25 +43,13 @@ author_profile: true
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/avg_diff_gen.png" alt="Average Generation Difference" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/robustness_mse_cap_factor.png" alt="Robustness MSE Cap Factor" style="width: 49%; height: auto; background-color: white;">
   <img src="/images/change_carbon_fossil_color.png" alt="Carbon and Fossil Fuel Changes" style="width: 49%; height: auto; background-color: white;">
 </div>
 
 ---
 
 ## Works in Progress
-
-### **Electric Shocks: The Short-run and Long-run Impacts of Power Outages on the Housing Market**
-
-<details>
-  <summary class="abstract-toggle">Abstract</summary>
-  <div class="abstract-box">Power disruptions are costly to households. How do consumers value power reliability disruptions? I exploit the variation in daily lightning strikes to provide new evidence on the capitalization of power reliability into home values. Ground lightning strikes lead to voltage fluctuations, damage to the electricity distribution network and power outages. Increases in lightning density (strikes per square mile) is associated with increased outages and decreases in county-level housing prices. I find that the average marginal willingness to pay for a 1 unit reduction in annual outages is about .37% of home price. I also evaluate the short-run impacts of power reliability shocks on short-run housing inventory outcomes. I find that a 10% increase in probability of experiencing at least one monthly outage is associated with as much as a .2% decrease in median listing price.</div>
-</details>
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/expected_annual_outage_no_title.png" alt="Expected Annual Outages" style="width: 49%; height: auto; background-color: white;">
-  <img src="/images/lp_IV_list_price.png" alt="Listing Price Impact" style="width: 49%; height: auto; background-color: white;">
-</div>
 
 ### **Not All Delays Are Equal: Queue Management and the Spatial Efficiency of Renewable Energy Deployment** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://sites.google.com/view/npinsonneault/homepage" target="_blank">Nicolas Pinsonneault</a>)</span>
 
