@@ -29,8 +29,14 @@ author_profile: true
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/fig_balance_continuity_eaglei_util.png" alt="Utility Service Boundary Design" style="width: 49%; height: auto; background-color: white;">
-  <img src="/images/map_minor_saidi_mean.png" alt="Minor Event Day Outage Map" style="width: 49%; height: auto; background-color: white;">
+  <div style="width: 49%; text-align: center;">
+    <img src="/images/fig_single_county_atl.png" alt="Single County Atlanta" style="width: 100%; height: auto; background-color: white;">
+    <p style="font-size: 0.8em; margin-top: 4px;">Utility service boundaries, Atlanta metro</p>
+  </div>
+  <div style="width: 49%; text-align: center;">
+    <img src="/images/map_minor_saidi_mean.png" alt="Minor Event Day Outage Map" style="width: 100%; height: auto; background-color: white;">
+    <p style="font-size: 0.8em; margin-top: 4px;">Mean minor-event outage duration by county</p>
+  </div>
 </div>
 
 ---
