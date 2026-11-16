@@ -69,3 +69,23 @@ summary.abstract-toggle {
 details[open] summary.abstract-toggle::before {
   content: "[− ";
 }
+
+/* Dark mode overrides — the navy buttons/borders are nearly invisible on the
+   dark background, so switch to the theme's light link color. */
+html[data-theme="dark"] {
+  .paper-btn,
+  summary.abstract-toggle {
+    color: #4fc3e0;
+    border-color: #4fc3e0;
+
+    &:hover {
+      color: #1b1b1b !important;
+      background-color: #4fc3e0;
+    }
+  }
+
+  .abstract-box {
+    background-color: #3a3a3a;
+    color: #e6e6e6;
+  }
+}

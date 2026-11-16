@@ -7,25 +7,39 @@ author_profile: true
 
 ## Working Papers
 
-### **Pricing Urban Water: Rate Structures and Scarcity Rents Under Supply Uncertainty** <a class="paper-btn" href="/files/Neff_PricingUrbanWater_Aug26.pdf" target="_blank">Draft</a>
+### **Pricing Urban Water: Rate Structures and Scarcity Rents Under Supply Uncertainty** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://haslam.utk.edu/people/profile/charles-sims/" target="_blank">Charles Sims</a>)</span> <a class="paper-btn" href="/files/AZ_Water_Pricing_NeffSims.pdf" target="_blank">Draft</a>
 
 <details>
   <summary class="abstract-toggle">Abstract</summary>
-  <div class="abstract-box">Municipal water utilities are mandated to recover costs, balance equity concerns, and send conservation signals. Yet the degree to which observed prices reflect the scarcity value of water remains largely unexplored. This paper develops a stochastic dynamic program in which the optimal two-sector price decomposes into a Ramsey markup, a scarcity rent on the water stock, and sector-specific marginal cost. Residential and non-residential demand elasticities of −0.59 and −0.82, respectively, are estimated from a panel of 194 Arizona water utilities (2014–2019). Simulated model-implied optimal prices show that increasing block rate (IBR) utilities price closer to the dynamic optimum than uniform-rate utilities. The welfare cost of suboptimal pricing is approximately $5 per connection larger under uniform rates than IBR in mild supply conditions and approximately $21 per connection larger under shortage stress. At the median 10 kgal consumption tier, uniform-rate Central Arizona Project (CAP) utilities price approximately 25 percent below their model-implied optimum while IBR CAP utilities price approximately 11 percent below theirs, a gap roughly twice as large under uniform rates. In this sample, IBR utilities more fully incorporate the scarcity rent into observed prices than uniform-rate utilities, and uniform-rate utilities retain a welfare gap of approximately $19 per connection under severe shortage conditions.</div>
+  <div class="abstract-box">Optimal pricing of scarce natural resources maximizes social welfare, yet public water utilities rarely price to reflect scarcity. We estimate residential and non-residential urban water demand using a new panel of Arizona utilities. We apply these elasticities to a dynamic Ramsey pricing model with uncertain supply and document how far prices fall below the scarcity-inclusive optimum. We find that residential rates fall well below the optimum at low-to-moderate consumption while non-residential rates tend to be above. Moving the utilities that buy Colorado River water to efficient prices cuts their draw on the river by 14 to 17 percent and raises welfare by roughly $21 million annually under normal conditions and $38 million under sustained shortage. The transition is financed almost entirely through bill increases for moderate-use residential customers while low-use and commercial bills change little. We argue that this asymmetry offers a structural explanation for why efficient water pricing remains politically difficult.</div>
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/fig1_welfare_dist.png" alt="Welfare Distribution" style="width: 49%; height: auto; background-color: white;">
-  <img src="/images/tier_gap_by_rate_structure.png" alt="Tier Gap by Rate Structure" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/tier_gap_by_rate_structure_mild.png" alt="Tier Gap by Rate Structure" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/CAP_map.jpg" alt="Central Arizona Project Service Map" style="width: 49%; height: auto; background-color: white;">
 </div>
 
 ---
 
-### **Valuing Power Outages: Evidence from U.S. Housing Transactions** <a class="paper-btn" href="/files/Valuing_Power_Outages_Aug26.pdf" target="_blank">Draft</a>
+### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://haslam.utk.edu/people/profile/scott-holladay/" target="_blank">J. Scott Holladay</a>)</span> <a class="paper-btn" href="/files/Texas_Interconnection_NeffHolladay.pdf" target="_blank">Draft</a>
 
 <details>
   <summary class="abstract-toggle">Abstract</summary>
-  <div class="abstract-box">Utility regulators lack credible behavioral estimates of household willingness to pay for power reliability to benchmark grid investment decisions. I compare individual home sale prices on either side of electric utility service boundaries within the same county, combining transaction data from 2015 to 2022 with automated outage records compiled from utility monitoring systems. Each additional hour of chronic outage exposure reduces home sale prices by 1.3 to 2.3 percent. Applying the Bishop and Murphy (2019) dynamic hedonic correction implies a marginal willingness to pay of $539 to $939 per household per year for an avoided hour of chronic outage. Holding the set of utilities fixed and changing only the outage measure, the self-reported data that utilities file with regulators cannot reproduce this result, and the two measures barely agree on the cross-boundary reliability gap. The choice of outage data, not the research design alone, determines what one finds. The estimate is a marginal willingness to pay for homes on the higher-outage side of the boundaries I study, in counties served by more than one utility. Within that scope the results provide a housing-market benchmark for reliability that regulatory reviews and conventional estimates do not currently capture.</div>
+  <div class="abstract-box">Using a novel least average cost dispatch (LACD) algorithm, this paper evaluates the economic and environmental costs of Texas maintaining an isolated electricity grid. We build a structural model to characterize the supply of electricity and simulate counterfactual integration scenarios. We find that Texas's largest population zones connected with neighboring states to the East results in reductions of generation costs of $83M annually. We also show that accounting for fixed costs in the dispatch model allocates generation to units with lower average fixed costs than under least marginal cost dispatch. This change in allocation along the margin results in large differences in emissions impacts. Tracing each plant's emissions through a tract-level air quality model, we find that most interconnection scenarios raise population-weighted PM2.5 exposure, because generation shifts toward lower-cost coal and lignite units. Health damages rise by up to $249 million per year and exceed the generation cost savings in eight of twelve scenarios. In nine scenarios, PM2.5 rises for more than 90 percent of Texans. Revenue and generation shifts to Texas firms in nine of twelve scenarios. We also show that reductions in costs of maintaining reliability are as large or larger than generation cost reductions.</div>
+</details>
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <img src="/images/robustness_mse_cap_factor.png" alt="Robustness MSE Cap Factor" style="width: 49%; height: auto; background-color: white;">
+  <img src="/images/change_carbon_fossil_color.png" alt="Carbon and Fossil Fuel Changes" style="width: 49%; height: auto; background-color: white;">
+</div>
+
+---
+
+### **Valuing Power Outages: Evidence from U.S. Housing Transactions** <span style="font-size: 0.85em; font-style: italic; font-weight: normal;">(draft available upon request)</span>
+
+<details>
+  <summary class="abstract-toggle">Abstract</summary>
+  <div class="abstract-box">Utilities and policymakers allocate billions of dollars to improve electricity reliability and grid resilience. I ask whether the capitalization of chronic reliability into home prices can be credibly identified with two different nationwide outage datasets and find that it cannot. The two sources disagree once mapped to a common geography. Validated against audited state regulatory filings, the widely used county outage data are a weak proxy for utility reliability. The naive county panel does return a statistically significant outage coefficient, but it is economically negligible, near twelve dollars per outage hour for the median home. Across designs measured at their native geography, I find no economically meaningful capitalization of chronic reliability, and the transaction hedonic bounds the contemporaneous response within a few hundredths of a percent per outage hour.</div>
 </details>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
@@ -37,20 +51,6 @@ author_profile: true
     <img src="/images/map_minor_saidi_mean.png" alt="Minor Event Day Outage Map" style="width: 100%; height: auto; background-color: white;">
     <p style="font-size: 0.8em; margin-top: 4px;">Mean minor-event outage duration by county</p>
   </div>
-</div>
-
----
-
-### **Lone Star Grid: The Impact of Texas Electricity Interconnection** <span style="font-size: 0.9em; font-style: italic; font-weight: normal;">(with <a href="https://haslam.utk.edu/people/profile/scott-holladay/" target="_blank">J. Scott Holladay</a>)</span> <a class="paper-btn" href="/files/Texas_Interconnection_ConnorNeff_JMP_April26.pdf" target="_blank">Draft</a>
-
-<details>
-  <summary class="abstract-toggle">Abstract</summary>
-  <div class="abstract-box">Using a novel least average cost dispatch (LACD) algorithm, this paper evaluates the economic and environmental costs of Texas maintaining an isolated electricity grid. We build a structural model to characterize the supply of electricity and simulate counterfactual integration scenarios. We find that Texas's largest population zones connected with neighboring states to the East results in reductions of generation costs of $100M annually. We also show that accounting for fixed costs in the dispatch model allocates generation to units with lower average fixed costs than under least marginal cost dispatch. This change in allocation along the margin results in large differences in emissions impacts. We find that some interconnection scenarios decrease the social cost of emissions by up to $360M annually, while others result in higher emissions. In a case study for one proposed interconnection, we show that generation and revenues shift to the Texas zone. We also show that reductions in costs of maintaining reliability are about as much as generation cost reductions.</div>
-</details>
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/images/robustness_mse_cap_factor.png" alt="Robustness MSE Cap Factor" style="width: 49%; height: auto; background-color: white;">
-  <img src="/images/change_carbon_fossil_color.png" alt="Carbon and Fossil Fuel Changes" style="width: 49%; height: auto; background-color: white;">
 </div>
 
 ---
